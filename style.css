@@ -1,0 +1,17 @@
+body{
+    background-color: orange;
+}
+
+div{
+    background-color: blue
+}
+
+.para1{
+    margin: 40px;
+    background-color: yellow;
+}
+
+.para2{
+    padding: 40px;
+    background-color: yellow;
+}
